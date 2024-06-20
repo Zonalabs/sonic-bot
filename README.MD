@@ -9,6 +9,11 @@ cd bot-sonic-sol
 
 ### 2. Instal Dependensi
 
+klik $ ls
+$ cd sonic-bot
+$ npm install
+$ pkg install nodejs
+
 ```bash
 npm install
 ```
@@ -16,6 +21,8 @@ npm install
 ### 3. Konfigurasi .env File
 
 buat file .env di root projek
+
+klik $ nano .env
 
 ```bash
 SEED_PHRASE="your seed phrase here"
